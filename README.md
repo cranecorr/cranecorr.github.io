@@ -1,2 +1,0 @@
-# cranecorr.github.io
-CorrGitPages
